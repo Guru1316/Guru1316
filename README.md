@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Passionate+Full+Stack+Developer;Gen%2FAI+Enthusiast;Innovating+Through+Code!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Passionate+Full+Stack+Developer;Gen+AI+Enthusiast;Innovating+Through+Code!)
 
   
 </div>
@@ -127,7 +127,6 @@ Hey there! 👋 I'm *Guruprasad Kumar, a passionate **Full Stack Developer* and 
 
 ### 💧 [AquaAlert](https://github.com/Guru1316/AquaAlert) | [Live Demo](https://aqua-alert-web.onrender.com/)
 *AI-Powered Health Monitoring & Early Warning System for Water-Borne Diseases*
-- 📱 Offline-first data collection with auto-sync for remote reporting  
 - 🤖 AI outbreak prediction using health & water quality data  
 - 🗺️ Real-time dashboard showing hotspots, alerts & actionable insights  
 - 💧 Simulated IoT-based water quality monitoring for correlation with health incidents  
@@ -138,7 +137,6 @@ Hey there! 👋 I'm *Guruprasad Kumar, a passionate **Full Stack Developer* and 
 
 ### ⚖️ [Nyay Sahayak](https://github.com/Guru1316/Nyay-Sahayak) | [Live Demo](https://nyay-sahayak.netlify.app/)
 *Smart DBT Platform for Swift & Dignified Justice Delivery*
-- ⚙️ Automated Case Creation Directly from FIRs
 - 📱 Simple & Secure Document Upload for Victims (Offline-First PWA)
 - 🖥️ Smart Dashboard for Fast & Transparent Officer Verification
 - 💸 Real-Time Tracking of Direct Benefit Transfers
@@ -164,7 +162,6 @@ Hey there! 👋 I'm *Guruprasad Kumar, a passionate **Full Stack Developer* and 
 - 🎥 Browse popular, top-rated, and upcoming movies  
 - 🔍 Search by title & filter by genre  
 - 🔖 Bookmark favorite movies  
-- 🌓 Light/Dark theme toggle  
 - *Tech:* React, Axios, TMDB API, CSS, Vite
 
 </td>
