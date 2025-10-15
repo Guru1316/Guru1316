@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Guruprasad Kumar
+# 👋 Hey, I'm Guruprasad Kumar!
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-Hi! I’m **Guruprasad Kumar**, a passionate **Full Stack Developer** and **Generative AI Enthusiast** from India. I love creating real-world projects and exploring new technologies to solve meaningful problems.  
+Hi! I’m **Guruprasad Kumar**, a passionate **Full Stack Developer** and **Generative AI Enthusiast** from India. I love building solutions for real world problems.
 
 - 🔭 **Currently Working On:** AirVision-V1, HashKYC  
 - 🌱 **Learning:** Spring Boot, MERN Stack, Blockchain  
