@@ -1,29 +1,38 @@
 <div align="center">
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=I'm+Guruprasad+Kumar!;Full+Stack+Developer;Generative+AI+Enthusiast;Innovating+Through+Code!" alt="Typing SVG">
-    </a>
-  </h1>
+  
+  <p>
+    <img src="https://fontmeme.com/permalink/240723/24ee184c1f9621ae6fc7f79435b8014e.png" alt="I'm Guruprasad Kumar" style="max-width: 100%; height: auto;"/>
+  </p>
+
   <p>
     A passionate <strong>Full Stack Developer</strong> and <strong>Generative AI Enthusiast</strong> from India, building solutions for real-world problems.
   </p>
-  <p>
-    <a href="https://www.linkedin.com/in/guruprasad-k-713994314" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/Guru1316" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="mailto:guruprasadgdr1@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://instagram.com/guru_1613_" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-  </p>
+
   <p>
     <img src="https://komarev.com/ghpvc/?username=Guru1316&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" alt="Profile views" />
   </p>
+  
+  <br>
+
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <a href="https://www.linkedin.com/in/guruprasad-k-713994314" target="_blank" style="text-decoration: none;">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="60" height="60"/><br>
+      <span style="color: #0077B5; font-weight: bold; font-size: 0.9em;">LinkedIn</span>
+    </a>
+    <a href="https://github.com/Guru1316" target="_blank" style="text-decoration: none;">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/><br>
+      <span style="color: #100000; font-weight: bold; font-size: 0.9em;">GitHub</span>
+    </a>
+    <a href="mailto:guruprasadgdr1@gmail.com" style="text-decoration: none;">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="60" height="60"/><br>
+      <span style="color: #D14836; font-weight: bold; font-size: 0.9em;">Email</span>
+    </a>
+    <a href="https://instagram.com/guru_1613_" target="_blank" style="text-decoration: none;">
+      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="60" height="60"/><br>
+      <span style="color: #E4405F; font-weight: bold; font-size: 0.9em;">Instagram</span>
+    </a>
+  </div>
+  
 </div>
 
 ---
