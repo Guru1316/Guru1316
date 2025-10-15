@@ -49,7 +49,7 @@ Hi! I’m **Guruprasad Kumar**, a passionate **Full Stack Developer** and **Gene
 ## 🔥 Activity
 
 <div align="center">
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Guru1316&theme=react-dark&hide_border=true)](https://github.com/Guru1316)
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Guru1316&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ---
