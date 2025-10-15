@@ -1,4 +1,3 @@
-<!-- ===== Hero Header (redesigned) ===== -->
 <table align="center" cellpadding="12">
   <tr>
     <td align="center" valign="middle" width="460">
@@ -9,8 +8,6 @@
         <img src="https://komarev.com/ghpvc/?username=Guru1316&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" alt="Profile views" />
       </p>
     </td>
-
-    <td valign="middle" width="520">
 
   <h1 align="left">
     <div>
@@ -37,17 +34,8 @@
     </a>
   </p>
 
-    </td>
   </tr>
 </table>
-
----
-
-<!-- Small callout / separator to balance the layout -->
-<p align="center">
-  <em>Crafting clean code and meaningful AI — one repo at a time.</em>
-</p>
-
 
 ---
 
