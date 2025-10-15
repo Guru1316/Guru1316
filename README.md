@@ -126,10 +126,10 @@ Hey there! 👋 I'm *Guruprasad Kumar, a passionate **Full Stack Developer* and 
 <td width="50%">
 
 ### 💧 [AquaAlert](https://github.com/Guru1316/AquaAlert) | [Live Demo](https://aqua-alert-web.onrender.com/)
-*Smart Health Monitoring & Early Warning System for Water-Borne Diseases*
+*Smart Health Monitoring for Water-Borne Diseases*
 - 🤖 AI outbreak prediction using health & water quality data
-- 📱 Offline-first data collection with auto-sync for remote reporting 
-- 🗺️ Real-time dashboard showing hotspots, alerts & actionable insights    
+- 🗺️ Real-time dashboard showing hotspots, alerts & actionable insights
+- 📱 Offline-first data collection with auto-sync    
 - *Tech:* HTML, CSS, JavaScript, Django, PWA, Render
 
 </td>
@@ -137,9 +137,9 @@ Hey there! 👋 I'm *Guruprasad Kumar, a passionate **Full Stack Developer* and 
 
 ### ⚖️ [Nyay Sahayak](https://github.com/Guru1316/Nyay-Sahayak) | [Live Demo](https://nyay-sahayak.netlify.app/)
 *Smart DBT Platform for Swift & Dignified Justice Delivery*
-- 📱 Simple & Secure Document Upload for Victims (Offline-First PWA)
 - 🖥️ Smart Dashboard for Fast & Transparent Officer Verification
-- 💸 Real-Time Tracking of Direct Benefit Transfers and Grievance Support
+- 📱 Simple & Secure Document Upload for Victims (Offline-First PWA)
+- 💸 Real-Time Tracking of Direct Benefit Transfers 
 - *Tech:* React, Node.js, Express, MongoDB, PWA, Netlify
 
 </td>
