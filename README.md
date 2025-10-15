@@ -2,7 +2,7 @@
   
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Guruprasad+Kumar;Full+Stack+Developer;Generative+AI+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=I'm+Guruprasad+Kumar!;Full+Stack+Developer;Generative+AI+Enthusiast;Innovating+Through+Code" alt="Typing SVG">
     </a>
   </h1>
   
@@ -99,8 +99,8 @@
       <br>Flask
     </td>
      <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1b88-43f9-a821-2ba5327a3a93.png" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <br>C
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
