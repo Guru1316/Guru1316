@@ -1,25 +1,13 @@
-<table align="center" cellpadding="12">
-  <tr>
-    <td align="center" valign="middle" width="460">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=I'm+Guruprasad+Kumar!;Full+Stack+Developer;Generative+AI+Enthusiast;Innovating+Through+Code!" alt="Typing SVG">
-      </a>
-      <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=Guru1316&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" alt="Profile views" />
-      </p>
-    </td>
-
-  <h1 align="left">
-    <div>
-      <span style="font-size:28px">Hi there, I'm <strong>Guruprasad K</strong>! 👋</span>
-    </div>
+<div align="center">
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=I'm+Guruprasad+Kumar!;Full+Stack+Developer;Generative+AI+Enthusiast;Innovating+Through+Code!" alt="Typing SVG">
+    </a>
   </h1>
-
-  <p align="left">
+  <p>
     A passionate <strong>Full Stack Developer</strong> and <strong>Generative AI Enthusiast</strong> from India, building solutions for real-world problems.
   </p>
-
-  <p align="left">
+  <p>
     <a href="https://www.linkedin.com/in/guruprasad-k-713994314" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
@@ -33,9 +21,10 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
   </p>
-
-  </tr>
-</table>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Guru1316&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" alt="Profile views" />
+  </p>
+</div>
 
 ---
 
