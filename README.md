@@ -176,13 +176,3 @@
 - **Tech Stack:** `React`, `Axios`, `TMDB API`, `CSS`, `Vite`
 
 </details>
-
----
-
-### 🔥 My Contribution Streak
-
-<div align="center">
-  <a href="https://github.com/Guru1316">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guru1316&theme=react-dark&hide_border=true" alt="Guru's GitHub Activity Graph"/>
-  </a>
-</div>
