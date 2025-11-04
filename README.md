@@ -31,7 +31,7 @@
 ### 🎯 My Focus & Goals
 
 - 🔭 **Currently Working On:** Building `AirVision` & `HashKYC`.
-- 🌱 **Always Learning:** Diving deeper into `MERN Stack` and `Azure` and `AWS`.
+- 🌱 **Always Learning:** Diving deeper into `MERN Stack`, `Azure` and `AWS`.
 - 🎯 **2025 Goal:** To build a project that truly revolutionizes the tech world.
 - ⚡ **Motto:** *“Learning! Building! Repeating!”*
 
