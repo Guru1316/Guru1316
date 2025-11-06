@@ -152,15 +152,17 @@
 </details>
 
 <details>
-<summary><h2>🚀 AirVision-V1: AI-Driven Pollution Intelligence Platform</h2></summary>
+<summary><h2>🌫️ AirVision: AI-Powered Real-Time Air Quality Intelligence Dashboard</h2></summary>
 
-> A platform leveraging AI to forecast air quality and provide actionable intelligence for citizens and policymakers.
-  
-- **🌬️ Air Quality Forecasting:** Predicts pollution levels to help individuals plan their activities.
-- **🗺️ Smart Route Suggestions:** Recommends cleaner commute routes based on real-time data.
-- **📊 Live Dashboard:** Interactive data visualization for public awareness and policy-making.
-- **Repo & Live Demo:** **[GitHub](https://github.com/Guru1316/AirVision-v1-)** | **[Live Demo](https://airvision-v1.streamlit.app/)**
-- **Tech Stack:** `Python`, `Streamlit`, `RandomForest`, `Scikit-learn`, `Plotly`
+> An enhanced real-time pollution analytics system for Delhi-NCR with live AQI monitoring, source attribution, forecasting, health advisory, and policy simulation.
+
+- **📡 Live AQI Monitoring:** Fetches real-time air quality data directly from certified monitoring networks.
+- **🧠 Source Identification:** Uses ML feature impact to determine pollution contribution (traffic, dust, stubble, industry).
+- **⏱️ 72-Hour AQI Forecasting:** SARIMAX-based predictive model calibrated with current atmospheric conditions.
+- **🩺 Health Impact & Protection Advisory:** Provides mask recommendations and safe-outdoor-time guidance.
+- **🎛️ Policy Simulator:** Allows policymakers to test reduction strategies and visualize projected improvements.
+- **Repo & Live Demo:** **[GitHub](https://github.com/Guru1316/AirVision-v2.git)** | **[Live Demo](https://air-vision.streamlit.app/)**
+- **Tech Stack:** `Python`, `Streamlit`, `RandomForest`, `SARIMAX`, `Folium`, `Scikit-learn`
 
 </details>
 
