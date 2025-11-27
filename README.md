@@ -30,7 +30,7 @@
 
 ### 🎯 My Focus & Goals
 
-- 🔭 **Currently Working On:** Building `Smart Expense Tracker` and `Chemi Visualizer`.
+- 🔭 **Currently Working On:** Building `Smart Expense Tracker` and `Chemist Visualizer`.
 - 🌱 **Always Learning:** Diving deeper into `MERN Stack` and `Cloud Computing`.
 - 🎯 **2025 Goal:** To build a project that truly revolutionizes the tech world.
 - ⚡ **Motto:** *“Learning! Building! Repeating!”*
