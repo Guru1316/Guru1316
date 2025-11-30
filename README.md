@@ -30,7 +30,7 @@
 
 ### 🎯 My Focus & Goals
 
-- 🔭 **Currently Working On:** Building `Smart Expense Tracker` and `Vector`.
+- 🔭 **Currently Working On:** Building `Smart Expense Tracker` and `Vector - B`.
 - 🌱 **Always Learning:** Diving deeper into `MERN Stack` and `Cloud Computing`.
 - 🎯 **2025 Goal:** To build a project that truly revolutionizes the tech world.
 - ⚡ **Motto:** *“Learning! Building! Repeating!”*
