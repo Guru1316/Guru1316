@@ -30,7 +30,7 @@
 
 ### 🎯 My Focus & Goals
 
-- 🔭 **Currently Working On:** Building `Exoplanet Analysis` and `RAG System`.
+- 🔭 **Currently Working On:** Building `Exoplanet Analysis Project` and `RAG System`.
 - 🌱 **Always Learning:** Diving deeper into `AWS`, `Next.js` and `Advanced Spring Boot`.
 - 🎯 **2025 Goal:** To build a project that truly revolutionizes the tech world.
 - ⚡ **Motto:** *“Learning! Building! Repeating!”*
