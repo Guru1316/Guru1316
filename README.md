@@ -32,7 +32,7 @@
 
 - 🔭 **Currently Working On:** Building `Exoplanet Exploration System` and `City-Flow`.
 - 🌱 **Always Learning:** Diving deeper into `AWS` and `Advanced Spring Boot`.
-- 🎯 **2025 Goal:** To build a project that truly revolutionizes the tech world.
+- 🎯 **2026 Goal:** To build a project that truly revolutionizes the tech world.
 - ⚡ **Motto:** *“Learning! Building! Repeating!”*
 
 ---
