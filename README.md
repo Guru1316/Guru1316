@@ -30,7 +30,7 @@
 
 ### 🎯 My Focus & Goals
 
-- 🔭 **Currently Working On:** Building `Exoplanet Exploration System` and `City-Flow`.
+- 🔭 **Currently Working On:** Building `Exoplanet Exploration System` and `CityFlow`.
 - 🌱 **Always Learning:** Diving deeper into `AWS` and `Advanced Spring Boot`.
 - 🎯 **2026 Goal:** To build a project that truly revolutionizes the tech world.
 - ⚡ **Motto:** *“Learning! Building! Repeating!”*
