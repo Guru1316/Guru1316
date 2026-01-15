@@ -5,7 +5,7 @@
     </a>
   </h1>
   <p>
-    A passionate <strong>Full Stack Developer</strong> and <strong>Cloud Enthusiast</strong> from India, building solutions for real-world problems.
+    A passionate <strong>Full Stack Developer</strong> and <strong>Cloud Enthusiast</strong> from India, building solutions for real world problems.
   </p>
   <p>
     <a href="https://www.linkedin.com/in/guruprasad-k-713994314" target="_blank">
