@@ -30,7 +30,7 @@
 
 ### 🎯 My Focus & Goals
 
-- 🔭 **Currently Working On:** Building `CityFlow`, `HashKYC` and `CareIQ`.
+- 🔭 **Currently Working On:** Building `CityFlow` and `HashKYC`.
 - 🌱 **Always Learning:** Diving deeper into `AWS`, `DevOps` and `Advanced Spring Boot`.
 - 🎯 **2026 Goal:** To build a project that truly revolutionizes the tech world.
 - ⚡ **Motto:** *“Learning! Building! Repeating!”*
