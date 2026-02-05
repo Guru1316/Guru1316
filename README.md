@@ -31,7 +31,7 @@
 ### 🎯 My Focus & Goals
 
 - 🔭 **Currently Working On:** Building `CityFlow` and `HashKYC`.
-- 🌱 **Always Learning:** Diving deeper into `AWS`, `DevOps` and `JWT`.
+- 🌱 **Always Learning:** Diving deeper into `AWS` and `JWT`.
 - 🎯 **2026 Goal:** To build a project that truly revolutionizes the tech world.
 - ⚡ **Motto:** *“Learning! Building! Repeating!”*
 
