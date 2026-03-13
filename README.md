@@ -31,7 +31,7 @@
 ### 🎯 My Focus & Goals
 
 - 🔭 **Currently Working On:** Building `SafeTrail`, `StellarOps` and `CampusDrop`.
-- 🌱 **Always Learning:** Diving deeper into `AWS` and `Blockchain`.
+- 🌱 **Always Learning:** Diving deeper into `AWS`, `AI` and `Blockchain`.
 - 🎯 **2026 Goal:** To build a project that truly revolutionizes the tech world.
 - ⚡ **Motto:** *“Learning! Building! Repeating!”*
 
