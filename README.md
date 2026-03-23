@@ -30,7 +30,7 @@
 
 ### 🎯 My Focus & Goals
 
-- 🔭 **Currently Working On:** Building `SafeTrail` and `MineOptix`.
+- 🔭 **Currently Working On:** Building `SafeTrail`, `NeuroAssist` and `MineOptix`.
 - 🌱 **Always Learning:** Diving deeper into `AWS` and `Blockchain`.
 - 🎯 **2026 Goal:** To build a project that truly revolutionizes the tech world.
 - ⚡ **Motto:** *“Learning! Building! Repeating!”*
