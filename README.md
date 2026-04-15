@@ -30,7 +30,7 @@
 
 ### 🎯 My Focus & Goals
 
-- 🔭 **Currently Working On:** Building `SafeTrail` and `NeuroAssist`.
+- 🔭 **Currently Working On:** Building `SafeTrail`.
 - 🌱 **Always Learning:** Diving deeper into `AWS`.
 - 🎯 **2026 Goal:** To build a project that truly revolutionizes the tech world.
 - ⚡ **Motto:** *“Learning! Building! Repeating!”*
@@ -93,6 +93,54 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" />
       <br>Firebase
     </td>
+Difficulty:648
+Expand
+Prev
+Next
+Switch to AI Tutor Mode
+New
+Small factorials
+
+You are asked to calculate factorials of some small positive integers.
+
+Input
+
+An integer t, 1<=t<=100, denoting the number of testcases, followed by t lines, each containing a single integer n, 1 <= n <= 100
+Output
+
+For each integer n given at input, display a line with the value of n!
+
+Note: For larger numbers, their factorial can overflows any available numeric data type in C.
+Sample 1:
+Input
+Output
+
+4
+1
+2
+5
+3
+
+1
+2
+120
+6
+
+Did you like the problem statement?
+611 users found this helpful
+More Info
+Time limit0.235294 secs
+Memory limit1.5 GB
+Source Limit2000 Bytes
+​
+
+4
+1
+2
+5
+3
+Visualize Code
+
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
       <br>C
