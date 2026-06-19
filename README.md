@@ -31,7 +31,7 @@
 ### 🎯 My Focus & Goals
 
 - 🔭 **Currently Working On:** Building `NeuroVerse`.
-- 🌱 **Always Learning:** Diving deeper into `DevOps` and `Ethical Hacking`.
+- 🌱 **Always Learning:** Diving deeper into `DevOps`.
 - 🎯 **2026 Goal:** To build a project that truly revolutionizes the tech world.
 - ⚡ **Motto:** *“Learning! Building! Repeating!”*
 
