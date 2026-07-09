@@ -31,7 +31,7 @@
 ### 🎯 My Focus & Goals
 
 - 🔭 **Currently Working On:** Building `SilverStone` and `VoltMatrix`.
-- 🌱 **Always Learning:** Diving deeper into `AIML`.
+- 🌱 **Always Learning:** Diving deeper into `AIML` and `AWS`.
 - 🎯 **2026 Goal:** To build a project that truly revolutionizes the tech world.
 - ⚡ **Motto:** *“Learning! Building! Repeating!”*
 
