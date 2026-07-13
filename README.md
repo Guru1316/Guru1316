@@ -79,7 +79,7 @@
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br>React
+      <br>React.js
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
@@ -111,15 +111,6 @@
     </td> -->
   </tr>
 </table>
-
----
-
-### 📊 My GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guru1316&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guru1316&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-</div>
 
 ---
 
