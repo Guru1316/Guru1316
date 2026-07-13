@@ -114,58 +114,56 @@
 
 ---
 
-### 🚀 My Featured Projects
+## 🚀 My Featured Projects
 
 <details open>
-<summary><h2>💧 AquaAlert: Smart Health Monitoring for Water-Borne Diseases</h2></summary>
-  
-> An intelligent system to predict and prevent water-borne disease outbreaks in vulnerable communities.
+<summary><h2>🛡️ SafeTrail: Smart Tourist Safety Platform</h2></summary>
 
-- **🤖 AI Outbreak Prediction:** Uses health & water quality data for early warnings.
-- **🗺️ Real-time Dashboard:** Visualizes hotspots, sends alerts, and provides actionable insights.
-- **📱 Offline-First Data Collection:** Mobile-friendly PWA for seamless data capture, even without connectivity.
-- **Repo & Live Demo:** **[GitHub](https://github.com/Guru1316/AquaAlert)** | **[Live Demo](https://aqua-alert-web.onrender.com/)**
-- **Tech Stack:** `HTML`, `CSS`, `JavaScript`, `Django`, `PWA`, `Render`
+> An AI-powered platform that enhances tourist safety through real-time monitoring, geo-fencing, intelligent risk detection, and emergency response.
 
-</details>
-
-<details>
-<summary><h2>⚖️ Nyay Sahayak: Smart DBT Platform for Swift Justice Delivery</h2></summary>
-  
-> A platform designed to provide swift, transparent, and dignified financial assistance to victims.
-
-- **🖥️ Smart Verification Dashboard:** Enables fast and transparent verification by officials.
-- **📱 Secure Document Upload:** Simple, offline-first PWA for victims to submit documents safely.
-- **💸 Real-Time Tracking:** Complete transparency with live tracking of Direct Benefit Transfers.
-- **Repo & Live Demo:** **[GitHub](https://github.com/Guru1316/Nyay-Sahayak)** | **[Live Demo](https://nyay-sahayak.netlify.app/)**
-- **Tech Stack:** `React`, `Node.js`, `Express`, `MongoDB`, `PWA`, `Netlify`
+* **📍 Live Location Tracking:** Monitors tourist movement in real time for improved safety.
+* **🚨 AI Risk Detection:** Identifies potential threats and generates proactive alerts.
+* **🆘 Smart Emergency Response:** One-tap SOS with live location sharing for faster assistance.
+* **Repo & Live Demo:** **[GitHub](https://github.com/Guru1316/SafeTrial-FSD)** | **[Live Demo](https://safetrial-fsd-frontend.onrender.com)**
+* **Tech Stack:** `React.js`, `Spring Boot`, `Neon DB`, `Machine Learning`
 
 </details>
 
 <details>
-<summary><h2>🌫️ AirVision: AI-Powered Real-Time Air Quality Intelligence Dashboard</h2></summary>
+<summary><h2>💃 MJ Dance Academy: Dance Course Management Portal</h2></summary>
 
-> An enhanced real-time pollution analytics system for Delhi-NCR with live AQI monitoring, source attribution, forecasting, health advisory, and policy simulation.
+> A full-stack MERN platform for managing dance courses, student enrollments, applications, and academy administration.
 
-- **📡 Live AQI Monitoring:** Fetches real-time air quality data directly from certified monitoring networks.
-- **🧠 Source Identification:** Uses ML feature impact to determine pollution contribution (traffic, dust, stubble, industry).
-- **⏱️ 72-Hour AQI Forecasting:** SARIMAX-based predictive model calibrated with current atmospheric conditions.
-- **🩺 Health Impact & Protection Advisory:** Provides mask recommendations and safe-outdoor-time guidance.
-- **🎛️ Policy Simulator:** Allows policymakers to test reduction strategies and visualize projected improvements.
-- **Repo & Live Demo:** **[GitHub](https://github.com/Guru1316/AirVision-v2.git)** | **[Live Demo](https://air-vision.streamlit.app/)**
-- **Tech Stack:** `Python`, `Streamlit`, `RandomForest`, `SARIMAX`, `Folium`, `Scikit-learn`
+* **📝 Online Course Enrollment:** Students can browse and apply for dance courses.
+* **⚙️ Admin Management Dashboard:** Manage courses, users, and applications from one place.
+* **📧 Automated Email Notifications:** Sends instant updates for applications and enquiries.
+* **Repo & Live Demo:** **[GitHub](https://github.com/Guru1316/MJDA-Frontend)** | **[Live Demo](https://mjda-frontend.netlify.app/)**
+* **Tech Stack:** `React.ts`, `Node.js`, `Express.js`, `MongoDB`
 
 </details>
 
 <details>
-<summary><h2>🎬 MovieHub: Modern Movie Discovery App</h2></summary>
+<summary><h2>🌫️ AirVision: Air Quality Intelligence Platform</h2></summary>
 
-> A sleek, modern application for discovering popular, top-rated, and upcoming movies.
+> A smart pollution analytics platform providing real-time AQI monitoring, forecasting, pollution source analysis, and health recommendations.
 
-- **🎥 Browse & Discover:** Explore extensive movie catalogs with ease.
-- **🔍 Advanced Search & Filter:** Find movies by title and filter by genre.
-- **🔖 Bookmark Favorites:** Save movies to a personal watchlist.
-- **Repo & Live Demo:** **[GitHub](https://github.com/Guru1316/MovieHub)** | **[Live Demo](https://guru1316.github.io/MovieHub)**
-- **Tech Stack:** `React`, `Axios`, `TMDB API`, `CSS`, `Vite`
+* **📡 Live AQI Monitoring:** Tracks real-time air quality across Delhi-NCR.
+* **⏱️ 72-Hour AQI Forecasting:** Predicts future pollution levels using AI models.
+* **🩺 Health Advisory System:** Provides personalized safety recommendations based on AQI.
+* **Repo & Live Demo:** **[GitHub](https://github.com/Guru1316/AirVision-v2.git)** | **[Live Demo](https://air-vision.streamlit.app/)**
+* **Tech Stack:** `Python`, `Streamlit`, `Scikit-learn`, `SARIMAX`, `Folium`
+
+</details>
+
+<details>
+<summary><h2>🌐 G-Browser: Desktop Browser</h2></summary>
+
+> A custom Electron-based desktop browser featuring multi-tab browsing, session restoration, bookmarks, and intelligent request management.
+
+* **🗂️ Multi-Tab Browsing:** Smooth and efficient browsing across multiple tabs.
+* **💾 Session & Bookmark Management:** Restore previous sessions and organize favorite websites.
+* **⚡ Intelligent Request Management:** Optimizes network requests for a faster browsing experience.
+* **Repo & Live Demo:** **[GitHub](https://github.com/Guru1316/G-Browser-Website)** | **[Live Demo](https://guru1316.github.io/G-Browser-Website/)**
+* **Tech Stack:** `Electron.js`, `Node.js`, `JavaScript`
 
 </details>
