@@ -30,7 +30,7 @@
 
 ### 🎯 My Focus & Goals
 
-- 🔭 **Currently Working On:** Building `VoltMatrix` and `Mine Sonic`.
+- 🔭 **Currently Working On:** Building `VoltMatrix`.
 - 🌱 **Always Learning:** Diving deeper into `AWS` and `Ethical Hacking`.
 - 🎯 **2026 Goal:** To build a project that truly revolutionizes the tech world.
 - ⚡ **Motto:** *“Learning! Building! Repeating!”*
